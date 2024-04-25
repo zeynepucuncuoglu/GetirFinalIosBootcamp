@@ -26,3 +26,9 @@
 - Excited to discuss iOS development and share insights from the bootcamp experience.
 
 Happy Coding with Getir Shop Clone! 🚀📱
+
+<div style="display: flex;">
+    <img src="Simulator Screenshot - iPhone SE (3rd generation) - 2024-04-25 at 09.25.32.png" alt="Image 1" width="30%">
+    <img src="Simulator Screenshot - iPhone SE (3rd generation) - 2024-04-25 at 09.25.16.png" alt="Image 2" width="30%">
+    <img src="Simulator Screenshot - iPhone SE (3rd generation) - 2024-04-25 at 09.25.10.png" alt="Image 3" width="30%">
+</div>
